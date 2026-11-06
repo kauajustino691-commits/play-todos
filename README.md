@@ -2,6 +2,8 @@
 Laboratório interativo de acessibilidade digital com demonstrações de alto contraste, redução de movimento, navegação por teclado e player acessível.
 # ♿ PLAY/TODOS — Laboratório de Acessibilidade Digital
 
+🌐 **Acesse o projeto:** [PLAY/TODOS — Laboratório de Acessibilidade Digital](https://playtodos.netlify.app/)
+
 **Tecnologia acessível é tecnologia para todos!**
 
 O PLAY/TODOS é um projeto acadêmico desenvolvido para demonstrar, de forma interativa, como a acessibilidade digital pode tornar sites e aplicativos mais inclusivos.
