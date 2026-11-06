@@ -52,3 +52,14 @@ Este projeto está disponibilizado sob a licença MIT. Consulte o arquivo [LICEN
 ---
 
 **PLAY/TODOS — Acessibilidade não é um extra, é parte da experiência digital.**
+
+prints do site:
+<img width="1365" height="627" alt="image" src="https://github.com/user-attachments/assets/af08ac9e-e25e-48bf-8bba-e6f4c24aee9c" />
+
+<img width="1351" height="620" alt="image" src="https://github.com/user-attachments/assets/7e208b9a-cdb6-48e1-bf57-ec13f41d06eb" />
+
+<img width="1340" height="626" alt="image" src="https://github.com/user-attachments/assets/c2a8c0b0-180f-489c-a152-acaff2e22a23" />
+
+<img width="1329" height="615" alt="image" src="https://github.com/user-attachments/assets/a558d655-412d-4576-afed-5d82e4bedca4" />
+
+<img width="1348" height="379" alt="image" src="https://github.com/user-attachments/assets/99eb4d06-e83a-43c2-bc1d-05ad47dd0426" />
